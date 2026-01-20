@@ -42,5 +42,5 @@
 ![Solar](https://img.shields.io/badge/Solar_Powered-FFCC00?style=for-the-badge&logo=google-home&logoColor=black)
 
 ## 🏗 System Architecture
-> <img width="902" height="555"" alt="Screenshot 2026-01-20 204920" src="https://github.com/user-attachments/assets/5553c976-6bd5-423a-a968-63c7ed443622" />
+<img width="745" height="349" alt="Screenshot 2026-01-20 204920" src="https://github.com/user-attachments/assets/6c84f287-3dbe-4cd7-a2c2-485d1384c1e2" />
 

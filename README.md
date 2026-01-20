@@ -2,8 +2,9 @@
 
 ## 📸 Project Preview
 <img width="902" height="555" alt="VERTIGROW-WEB-SS-1" src="https://github.com/user-attachments/assets/5e3067bb-903b-447b-a076-bb99190d3239" />
-<img width="1920" height="1200" alt="VERTIGROW-WEB-SS-3" src="https://github.com/user-attachments/assets/ebb7e9f9-8e7d-42b2-8bff-0a6537581211" />
-<img width="1920" height="1200" alt="VERTIGROW-WEB-SS-2" src="https://github.com/user-attachments/assets/4cb847fa-d327-4e30-955d-6399c90a8f76" />
+<img width="902" height="555" alt="VERTIGROW-WEB-SS-3" src="https://github.com/user-attachments/assets/d2991a80-20bb-4933-8a69-ce75e109e3ef" />
+<img width="902" height="555" alt="VERTIGROW-WEB-SS-2" src="https://github.com/user-attachments/assets/5031555c-0059-421e-bc99-2228cd107a63" />
+
 
 ## 🚀 Key Features
 * **Real-time sensor monitoring**
@@ -41,5 +42,5 @@
 ![Solar](https://img.shields.io/badge/Solar_Powered-FFCC00?style=for-the-badge&logo=google-home&logoColor=black)
 
 ## 🏗 System Architecture
-> <img width="746" height="351" alt="Screenshot 2026-01-20 204920" src="https://github.com/user-attachments/assets/5553c976-6bd5-423a-a968-63c7ed443622" />
+> <img width="902" height="555"" alt="Screenshot 2026-01-20 204920" src="https://github.com/user-attachments/assets/5553c976-6bd5-423a-a968-63c7ed443622" />
 

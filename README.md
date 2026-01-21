@@ -44,3 +44,15 @@
 ## 🏗 System Architecture
 <img width="745" height="349" alt="Screenshot 2026-01-20 204920" src="https://github.com/user-attachments/assets/6c84f287-3dbe-4cd7-a2c2-485d1384c1e2" />
 
+---
+
+## 👥 Project Members
+
+| Name | GitHub Profile |
+| :--- | :--- |
+| **Feby Angela Felices** | [@Fibii44](https://github.com/Fibii44) |
+| **Keith Einlou Pogoy** | [@nloukei](https://github.com/nloukei) |
+| **James Joshua Yosores** | [@Yosores04](https://github.com/Yosores04) |
+| **Sern Ponce** | [@Ponceeee](https://github.com/Ponceeee) |
+
+---
